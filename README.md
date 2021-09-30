@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thiagaoz
+- 👋 Hi, I’m Thiago
 - 👀 I’m interested in Python and Games
 - 🌱 I’m currently learning Django, React and Unity3d
 - 📫 How to reach me: thiago.vazss@gmail.com
