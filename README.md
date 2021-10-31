@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiago
 - 👀 I’m interested in Python and Games
-- 🌱 I’m currently learning Django, React and Unity3d
+- 🌱 Django, Flask, JavaScript, Unity3D...
 - 📫 How to reach me: thiago.vazss@gmail.com
 
 <!---
