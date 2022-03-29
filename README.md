@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Thiago
-- 👀 I’m interested in JavaScript, Python and Games
+- 👋 Hi, I’m Thiagão
+- 👀 Future Front-End Dev!
+- 📚 JavaScript, React.js
 - 📫 How to reach me: thiago.vazss@gmail.com
 
 <!---
