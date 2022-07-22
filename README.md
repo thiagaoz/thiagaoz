@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thiagão
 - 👀 Future Front-End Dev!
-- 📚 JavaScript, React.js
+- 📚 TypeScript, JavaScript, React.js
 - 📫 How to reach me: thiago.vazss@gmail.com
 
 <!---
