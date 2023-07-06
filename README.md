@@ -1,7 +1,7 @@
-- 👋 I’m Thiagão
+- 👋 Thiagão
 - 👀 Front-End Dev!
-- 📚 TypeScript, JavaScript, React.js
-- 📫 How to reach me: thiago.vazss@gmail.com
+- 📚 TypeScript, JavaScript, React Native and React.js
+- 📫 How to reach me: thiagaoz@proton.me
 
 <!---
 thiagaoz/thiagaoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
