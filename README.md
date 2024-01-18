@@ -1,4 +1,4 @@
-- 👋 Thiagão, I'm a Softare Engineer
+- 👋 Thiagão, I'm a Software Engineer
 - 👀 Front-End 
 - 📚 TypeScript, JavaScript, React Native and React.js
 - 📫 How to reach me: thiagaoz@proton.me
