@@ -1,7 +1,5 @@
-- 👋 Thiagão, I'm a Softare Engineer
-- 👀 Front-End 
-- 📚 TypeScript, JavaScript, React Native and React.js
-- 📫 How to reach me: thiagaoz@proton.me
+- 👋 I'm, Thiagão
+- 📡 https://thiagovaz.free.nf/
 
 <!---
 thiagaoz/thiagaoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
