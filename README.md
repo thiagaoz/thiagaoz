@@ -1,5 +1,4 @@
-- 👋 I'm, Thiagão
-- 📡 https://thiagovaz.free.nf/
+- 👋 I'm, Thiago
 
 <!---
 thiagaoz/thiagaoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
